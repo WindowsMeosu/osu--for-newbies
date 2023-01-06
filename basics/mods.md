@@ -18,4 +18,4 @@ Pro: Failure is practically non-existant.
 
 Con: [Medals](Gameplay/Medals.md) that require you to pass a map without any score reduction mods are unavailable. There are medals that can be awarded with No-Fail. ([See haitai.jp](http://haitai.jp/)).
 
-[last](../beatmaps/Low_difficulties.md)
+[[last]](../beatmaps/Low_difficulties.md)
