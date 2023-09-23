@@ -33,6 +33,7 @@ Con: [Medals](Gameplay/Medals.md) that require you to pass a map without any sco
 ### Benefits of Half-Time
 
 Pro: The BPM is slightly lowered. (200bpm becomes 100.)
+
 Pro: AR, OD, and HP are lowered slightly.
 
 Con:[Medals](Gameplay/Medals.md) that require you to pass a map without any score reduction mods are unavailable. There are medals that can be awarded with Half-Time. ([See haitai.jp](http://haitai.jp/)).
